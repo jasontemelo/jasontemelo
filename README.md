@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasontemelo
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning JavaScript, JSX, and React
+- 🌱 I’m currently building practice projects in JavaScript, JSX, and React. Also learning C# on the side!
 - 💞️ I’m looking to collaborate on pretty much everything that can help me become a good web developer!
 - 📫 How to reach me: jasontemelo@gmail.com
 - 😄 Pronouns: He/Him
