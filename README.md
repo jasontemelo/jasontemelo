@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on pretty much everything that can help me become a good web developer!
 - 📫 How to reach me: jasontemelo@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My personal life revolves around video games, reddit, and k-pop
+- ⚡ Fun fact: I won a rabbit when I was in 2nd grade! It was the first prize for a writing contest.
+- 💻 Interests: reddit, k-pop, video games, and linkin park!
 
 <!---
 jasontemelo/jasontemelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
